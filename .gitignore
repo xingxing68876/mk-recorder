@@ -10,3 +10,6 @@ config.json
 
 # 录制脚本可能含键入的文本,永不入库
 scripts/*.json
+
+# 独立审查档案(发布前内部用,不入库)
+REVIEW.md
